@@ -3,7 +3,7 @@
 	<id>collaboration</id>
 	<name>Collaboration</name>
 	<description>App used for project collaboration</description>
-	<version>1.1</version>
+	<version>1.2</version>
 	<licence>APGL</licence>
 	<author>Dr.J.Akilandeswari, R.Ramki, R.Sasidharan and P.Suresh</author>
 	<requiremin>5</requiremin>
